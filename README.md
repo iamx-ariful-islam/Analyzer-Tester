@@ -31,6 +31,12 @@ First [Download](https://www.python.org/downloads/), install and configure [Pyth
 * Linux installation
 ---
 
+## Clone the Repository
+
+```bash
+git clone https://github.com/iam-ariful-islam/analyzer-tester.git
+```
+
 ## Notes
 For better font interface install `Ubuntu.ttf` font and that is into the file folder and also the `requirements.txt` file, lists of all the python libraries that my "**_Python Analyzer Tester_**" depends on and installs those packages from the file:
 
