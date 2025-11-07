@@ -8,6 +8,7 @@
 
 **Pathology analyzer communication tester supporting serial and network protocols with simulates and tests data exchange (ASTM/HL7) with host system.**
 
+
 ## Task Description
 
 A project to build a Python-based medical analyzer tester for continuously receive analyzer data. Here analyzer tester communicate with any medical analyzer base on ip address with port no for network communication or com port with baudrate for serial communication with bytes size and connection mode. analyzer tester continuously try to create unidirectional or bidirectional connection with bytes size if connect then receive data and show into the terminal and you can write that data into [TXT](https://en.wikipedia.org/wiki/Text_file) file. Here are some special features added.
@@ -31,52 +32,61 @@ First [Download](https://www.python.org/downloads/), install and configure [Pyth
 * Linux installation
 ---
 
-## Clone the Repository
-
-```bash
-git clone https://github.com/iam-ariful-islam/analyzer-tester.git
-```
 
 ## Notes
 For better font interface install `Ubuntu.ttf` font and that is into the file folder and also the `requirements.txt` file, lists of all the python libraries that my "**_Python Analyzer Tester_**" depends on and installs those packages from the file:
 
-```
+```bash
 pip install -r requirements.txt
-```
-
-### **or**
-
-```
+# or
 sudo pip install -r requirements.txt
 ```
 
-## Project screenshots
+
+## Sreenshots
+Here are some screenshots of the `Analyzer Tester` project:
+
 **Application**<br/>
-<img alt="main" src="https://github.com/iam-ariful-islam/Analyzer-Tester/blob/main/screenshots/main_1.png" />
+![Main](screenshots/main.png)<br/>
 **Main Window**<br/>
-<img alt="connect" src="https://github.com/iam-ariful-islam/Analyzer-Tester/blob/main/screenshots/main_2.png" />
+![Connect](screenshots/connect.png)<br/>
 **Data Received**<br/>
-<img alt="receive_data" src="https://github.com/iam-ariful-islam/Analyzer-Tester/blob/main/screenshots/main_3.png" />
+![Receive Data](screenshots/receive_data.png)<br/>
 **Text File Data**<br/>
-<img alt="text_file" src="https://github.com/iam-ariful-islam/Analyzer-Tester/blob/main/screenshots/main_4.png" />
+![Text File](screenshots/text_file.png)<br/>
 **Code Snapshot**<br/>
-<img alt="code_snapshot" src="https://github.com/iam-ariful-islam/Analyzer-Tester/blob/main/screenshots/main_5.png" />
+![Code Snapshot](screenshots/code_snapshot.png)
+
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions, suggestions, and feedback are always welcome! ❤️
+To contribute:
 
-Please make sure to update tests as appropriate.
+1. Fork the repository
+1. Create a new branch (`feature/new-feature`)
+1. Commit your changes
+1. Push and submit a Pull Request
+
+💬 You can also open an issue if you’d like to discuss a feature or report a bug.
+
 
 ## For more or connect with me
 
 <p align='center'>
-  <a href="https://github.com/iam-ariful-islam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/am_ariful_islam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/im-ariful-islam"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jonakisoft.net/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/GitHub-md%20ariful%20islam-black?style=for-the-badge&logo=github" /></a>&nbsp;&nbsp;
+  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Ariful%20Islam-blue?style=for-the-badge&logo=linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-Md.%20Ariful%20Islam-black?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/iamx.ariful.islam/"><img src="https://img.shields.io/badge/Facebook-MD.%20Ariful%20Islam-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
+
 
 ## License
 
 The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
+
+
+## 💖 Thank You for Visiting!
+
+> “Good design is about making things simple yet significant”  
+> — *Md. Ariful Islam*
