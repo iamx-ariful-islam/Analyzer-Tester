@@ -30,7 +30,6 @@ First [Download](https://www.python.org/downloads/), install and configure [Pyth
 
 * Windows installation
 * Linux installation
----
 
 
 ## Notes
