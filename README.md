@@ -1,4 +1,4 @@
-# Python Analyzer Tester using Python3 Tkinter
+# Analyzer Tester
 
 ### **A Python gui-based _medical analyzer tester_ using Tkinter GUI**
 
@@ -33,7 +33,7 @@ First [Download](https://www.python.org/downloads/), install and configure [Pyth
 
 
 ## Notes
-For better font interface install `Ubuntu.ttf` font and that is into the file folder and also the `requirements.txt` file, lists of all the python libraries that my "**_Python Analyzer Tester_**" depends on and installs those packages from the file:
+For better font interface install `Ubuntu.ttf` font and that is into the file folder and also the `requirements.txt` file, lists of all the python libraries that my "**_Analyzer Tester_**" depends on and installs those packages from the file:
 
 ```bash
 pip install -r requirements.txt
